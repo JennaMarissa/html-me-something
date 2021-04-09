@@ -1,9 +1,21 @@
-<!DOCTYPE html>
-<html>
-<head>
-<style>
-div {
-    padding: 70px;
+body {
+    background-color:cornsilk;
+    margin: 25px;
 }
-</style>
-</head>
+h4 {
+    color: red
+}
+
+h3 {
+    color: blue;
+}
+.funkyFont {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#borderMargin {
+    border: 3px solid powderblue;
+    margin: 80px;
+    padding: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
